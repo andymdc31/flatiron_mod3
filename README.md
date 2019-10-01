@@ -13,3 +13,4 @@
 - Repo added: https://github.com/learn-co-students/dsc-anova-lab-online-ds-ft-081219.git
 - Repo added: https://github.com/learn-co-students/dsc-ab-testing-lab-online-ds-ft-081219.git
 - Repo added: https://github.com/learn-co-students/dsc-in-depth-ab-testing-lab-online-ds-ft-081219.git
+- Repo added: https://github.com/learn-co-students/dsc-website-ab-testing-lab-online-ds-ft-081219.git
