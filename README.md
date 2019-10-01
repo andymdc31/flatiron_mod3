@@ -11,3 +11,5 @@
 - Repo added: https://github.com/learn-co-students/dsc-statistical-power-lab-online-ds-ft-081219.git
 - Repo added: https://github.com/learn-co-students/dsc-welchs-ttest-lab-online-ds-ft-081219.git
 - Repo added: https://github.com/learn-co-students/dsc-anova-lab-online-ds-ft-081219.git
+- Repo added: https://github.com/learn-co-students/dsc-ab-testing-lab-online-ds-ft-081219.git
+- Repo added: https://github.com/learn-co-students/dsc-in-depth-ab-testing-lab-online-ds-ft-081219.git
