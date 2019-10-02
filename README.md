@@ -15,3 +15,4 @@
 - Repo added: https://github.com/learn-co-students/dsc-in-depth-ab-testing-lab-online-ds-ft-081219.git
 - Repo added: https://github.com/learn-co-students/dsc-website-ab-testing-lab-online-ds-ft-081219.git
 - Repo added: https://github.com/learn-co-students/dsc-bayes-theorem-lab-online-ds-ft-081219.git
+- Repo added: https://github.com/learn-co-students/dsc-monty-hall-problem-lab-online-ds-ft-081219.git
