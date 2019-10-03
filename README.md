@@ -18,3 +18,4 @@
 - Repo added: https://github.com/learn-co-students/dsc-monty-hall-problem-lab-online-ds-ft-081219.git
 - Repo added: https://github.com/learn-co-students/dsc-gaussian-naive-bayes-lab-online-ds-ft-081219.git
 - Repo added: https://github.com/learn-co-students/dsc-document-classification-with-naive-bayes-lab-online-ds-ft-081219.git
+- Repo added: https://github.com/learn-co-students/dsc-komogorov-smirnov-test-lab-online-ds-ft-081219.git
